@@ -1,0 +1,3 @@
+rootProject.name = 'NavigatorRedux'
+
+include ':app'
